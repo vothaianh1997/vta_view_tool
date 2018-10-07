@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Common methods that I use in a view}
   spec.description   = %q{At the momment it can only build a copyright.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/vothaianh1997/vta_view_tool/"
   spec.license       = "MIT"
 
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
